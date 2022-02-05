@@ -45,11 +45,48 @@ Grading
 
 Grades will be determined by a weighted average of problem sets, the first exam, and the second exam. The second exam can be replaced by a term paper.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 33.3% |
-| First Exam | 33.3% |
-| Second Exam OR Term Paper | 33.3% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+33.3%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Exam
+{{< tdclose >}}
+{{< tdopen >}}
+33.3%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second Exam OR Term Paper
+{{< tdclose >}}
+{{< tdopen >}}
+33.3%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------
